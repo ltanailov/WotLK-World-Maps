@@ -1,4 +1,27 @@
-MIT License
+SCOPE / IMPORTANT NOTICE
+
+This repository contains two categories of content with DIFFERENT terms:
+
+1. ORIGINAL WORK BY THE REPOSITORY AUTHOR
+   Includes: README.md, any scripts or documentation authored for this
+   repository, and the FORMAT/STRUCTURE (the schema / field layout) of
+   ZoneIDs.json. This does NOT include the values stored in ZoneIDs.json.
+   --> Licensed under the MIT License (below).
+
+2. CONTENT OWNED BY / DERIVED FROM BLIZZARD ENTERTAINMENT
+   Includes:
+     - all map image files (*.png) under the locale folders
+       (deDE/, enGB/, esES/, frFR/, ruRU/, etc.); and
+     - all values in ZoneIDs.json, namely the map/zone names (`filename`),
+       the full zone names (`name`), and the zone IDs (`id`), which are taken
+       from / derived from World of Warcraft game data.
+   --> NOT covered by the MIT License. See "Third-Party Assets" below.
+
+The MIT License grant applies ONLY to category (1). It does NOT grant any
+rights to the Blizzard-owned or Blizzard-derived content in category (2),
+including the map images and every value contained in ZoneIDs.json.
+
+MIT License  (applies only to the original work described above)
 
 Copyright (c) 2026 Luke Tanailov
 
@@ -19,3 +42,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Third-Party Assets (Blizzard Entertainment)
+
+The map image files in this repository are extracted from World of Warcraft:
+Wrath of the Lich King (3.3.5a) and are the copyrighted property of
+Blizzard Entertainment, Inc. In addition, every value listed in ZoneIDs.json -
+the map/zone names (`filename`), the full zone names (`name`), and the zone IDs
+(`id`) - is taken from / derived from Blizzard's game data and is likewise the
+property of Blizzard Entertainment, Inc.
+
+World of Warcraft, Wrath of the Lich King, Warcraft, and all associated
+artwork, images, logos, zone/location names, and trademarks are the property
+of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
+
+This project is an UNOFFICIAL, NON-COMMERCIAL fan project. It is not created
+by, affiliated with, sponsored by, or endorsed by Blizzard Entertainment.
+No copyright or trademark infringement is intended.
+
+The author claims NO ownership of the Blizzard assets or of any values in
+ZoneIDs.json (the map/zone names, full zone names, and zone IDs), and grants
+NO rights to them. They are included solely for non-commercial,
+fan/community use (e.g. private World of Warcraft addons and tools). All rights
+to these assets and data remain with Blizzard Entertainment, Inc.
+
+If you are a rights holder and want this content removed, please open an issue
+or contact the repository owner, and it will be taken down promptly.
