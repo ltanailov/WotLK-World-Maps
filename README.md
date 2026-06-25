@@ -22,6 +22,9 @@ map file name to its in-game zone ID and full zone name.
 > images are continent / world maps (`Azeroth`, `Kalimdor`, `Northrend`,
 > `Cosmic`, `World`), which are not zones and have no zone ID.
 
+This repository contains open-world (continent and zone) maps only. Dungeon,
+raid, and battleground maps are **not** included.
+
 ## Disclaimer
 All map textures, as well as every value in `ZoneIDs.json` - the map/zone names
 (`filename`), the full zone names (`name`), and the zone IDs (`id`) - are
