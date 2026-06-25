@@ -23,15 +23,15 @@ map file name to its in-game zone ID and full zone name.
 > `Cosmic`, `World`), which are not zones and have no zone ID.
 
 ## Disclaimer
-All map textures, as well as every value in `ZoneIDs.json` — the map/zone names
-(`filename`), the full zone names (`name`), and the zone IDs (`id`) — are
-© Blizzard Entertainment, Inc. and are taken from / derived from World of
+All map textures, as well as every value in `ZoneIDs.json` - the map/zone names
+(`filename`), the full zone names (`name`), and the zone IDs (`id`) - are
+© Blizzard Entertainment, Inc. property and are taken from / derived from World of
 Warcraft game data. World of Warcraft and Warcraft are trademarks of Blizzard
 Entertainment. This is an unofficial, non-commercial fan project and is not
 affiliated with or endorsed by Blizzard.
 
 The MIT License (see [`LICENSE`](LICENSE)) applies ONLY to this repository's own
-documentation and to the format/structure (the schema) of `ZoneIDs.json` — NOT
+documentation and to the format/structure (the schema) of `ZoneIDs.json` - NOT
 to the Blizzard-owned image assets or to any of the values contained in
 `ZoneIDs.json` (`filename`, `name`, `id`). See the `LICENSE` file for the full
 scope and the third-party notice.
